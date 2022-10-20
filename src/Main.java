@@ -5,7 +5,7 @@ public class Main {
 
         int vari1 = 1;
         byte vari2 = 126;
-        short vari3 = 30000;
+        short vari3 = 30001;
         long vari4 = 1337;
         float vari5 = 100000;
         double vari6 = 1000000;
